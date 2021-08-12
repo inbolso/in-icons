@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg384"
+   sodipodi:docname="in-lixo.svg"
+   inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs388" />
+  <sodipodi:namedview
+     id="namedview386"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="34.375"
+     inkscape:cx="10.4"
+     inkscape:cy="10.370909"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg384" />
+  <path
+     id="path376"
+     style="fill:#000000"
+     d="M 10 1 C 9.20435 1 8.4415162 1.3162964 7.8789062 1.8789062 C 7.3162962 2.4415163 7 3.20435 7 4 L 7 5 L 5 5 L 3 5 C 2.44772 5 2 5.44772 2 6 C 2 6.55228 2.44772 7 3 7 L 4 7 L 4 20 C 4 20.7957 4.3162963 21.558494 4.8789062 22.121094 C 5.4415163 22.683694 6.20435 23 7 23 L 17 23 C 17.7957 23 18.558494 22.683694 19.121094 22.121094 C 19.683694 21.558494 20 20.7957 20 20 L 20 7 L 21 7 C 21.5523 7 22 6.55228 22 6 C 22 5.44772 21.5523 5 21 5 L 19 5 L 17 5 L 17 4 C 17 3.20435 16.683694 2.4415163 16.121094 1.8789062 C 15.558494 1.3162964 14.7956 1 14 1 L 10 1 z M 9.9921875 3 L 14.007812 3 C 14.557109 3 15 3.4428931 15 3.9921875 L 15 4.9980469 L 9 4.9980469 L 9 3.9921875 C 9 3.4428931 9.4428931 3 9.9921875 3 z M 6 7.0058594 L 18.005859 7.0058594 L 18.005859 19.982422 C 18.005859 20.555563 17.543845 21.017578 16.970703 21.017578 L 7.0332031 21.017578 C 6.4600615 21.017578 6 20.555563 6 19.982422 L 6 7.0058594 z M 10 10 C 9.44772 10 9 10.4477 9 11 L 9 17 C 9 17.5523 9.44772 18 10 18 C 10.5523 18 11 17.5523 11 17 L 11 11 C 11 10.4477 10.5523 10 10 10 z M 14 10 C 13.4477 10 13 10.4477 13 11 L 13 17 C 13 17.5523 13.4477 18 14 18 C 14.5523 18 15 17.5523 15 17 L 15 11 C 15 10.4477 14.5523 10 14 10 z " />
+</svg>

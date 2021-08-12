@@ -1,0 +1,527 @@
+@font-face {
+  font-family: 'inBolso';
+  src: url('fonts/inBolso.eot?ptxbxg');
+  src: url('fonts/inBolso.eot?ptxbxg#iefix') format('embedded-opentype'),
+    url('fonts/inBolso.ttf?ptxbxg') format('truetype'),
+    url('fonts/inBolso.woff?ptxbxg') format('woff'),
+    url('fonts/inBolso.svg?ptxbxg#inBolso') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^='in-'],
+[class*=' in-'] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'inBolso' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.in-protesto-color:before {
+  content: '\e971';
+  color: rgb(7, 39, 45);
+  position: absolute;
+}
+
+.in-protesto-color:after {
+  content: '\e972';
+  color: rgb(0, 198, 94);
+}
+
+.in-titulo-color:before {
+  content: '\e96f';
+  color: rgb(0, 198, 94);
+  position: absolute;
+}
+.in-titulo-color:after {
+  content: '\e970';
+  color: rgb(7, 39, 45);
+}
+
+.in-dashboard-color:before {
+  content: '\e96d';
+  color: rgb(7, 39, 45);
+  position: absolute;
+}
+.in-dashboard-color:after {
+  content: '\e96e';
+  color: rgb(0, 198, 94);
+}
+
+.in-calculadora-color:before {
+  content: '\e969';
+  color: rgb(7, 39, 45);
+  position: absolute;
+}
+.in-calculadora-color:after {
+  content: '\e96a';
+  color: rgb(0, 198, 94);
+}
+
+.in-historico-color:before {
+  content: '\e967';
+  color: rgb(0, 198, 94);
+  position: absolute;
+}
+.in-historico-color:after {
+  content: '\e968';
+  color: rgb(7, 39, 45);
+}
+
+.in-busca-enriquecimento-color:before {
+  content: '\e965';
+  color: rgb(0, 198, 94);
+  position: absolute;
+}
+.in-busca-enriquecimento-color:after {
+  content: '\e966';
+  color: rgb(7, 39, 45);
+}
+
+.in-ticket-color:before {
+  content: '\e963';
+  color: rgb(7, 39, 45);
+  position: absolute;
+}
+.in-ticket-color:after {
+  content: '\e964';
+  color: rgb(0, 198, 94);
+}
+
+.in-espelho-color:before {
+  content: '\e961';
+  position: absolute;
+  color: rgb(0, 198, 94);
+}
+.in-espelho-color:after {
+  content: '\e962';
+  color: rgb(7, 39, 45);
+}
+
+.in-lote-color:before {
+  content: '\e95f';
+  color: rgb(7, 39, 45);
+  position: absolute;
+}
+.in-lote-color:after {
+  content: '\e960';
+  color: rgb(0, 198, 94);
+}
+
+.in-dollar-color:before {
+  content: '\e95d';
+  color: rgb(0, 198, 94);
+  position: absolute;
+}
+.in-dollar-color:after {
+  content: '\e95e';
+  color: rgb(7, 39, 45);
+}
+
+.in-email-color:before {
+  content: '\e95b';
+  color: rgb(0, 198, 94);
+  position: absolute;
+}
+.in-email-color:after {
+  content: '\e95c';
+  color: rgb(7, 39, 45);
+}
+
+.in-banco-color:before {
+  content: '\e928';
+  color: rgb(0, 198, 94);
+  position: absolute;
+}
+
+.in-banco-color:after {
+  content: '\e929';
+  color: rgb(7, 39, 45);
+}
+
+.in-alarme:before {
+  content: '\e902';
+}
+
+.in-alarme-color:after {
+  content: '\e900';
+  color: rgb(0, 198, 94);
+}
+
+.in-alarme-color:before {
+  content: '\e901';
+  color: rgb(7, 39, 45);
+  position: absolute;
+}
+
+.in-anexo:before {
+  content: '\e903';
+}
+
+.in-arquivo:before {
+  content: '\e904';
+}
+
+.in-arquivo-pdf:before {
+  content: '\e905';
+}
+
+.in-aviao-papel:before {
+  content: '\e906';
+}
+
+.in-banco:before {
+  content: '\e907';
+}
+
+.in-busca:before {
+  content: '\e908';
+}
+
+.in-busca-enriquecimento:before {
+  content: '\e909';
+}
+
+.in-calculadora:before {
+  content: '\e90a';
+}
+
+.in-calendario:before {
+  content: '\e90b';
+}
+
+.in-check:before {
+  content: '\e90c';
+}
+
+.in-check-circulo:before {
+  content: '\e90d';
+}
+
+.in-chevron-down:before {
+  content: '\e90e';
+}
+
+.in-chevron-up:before {
+  content: '\e90f';
+}
+
+.in-cliente:before {
+  content: '\e910';
+}
+
+.in-cliente-acionar:before {
+  content: '\e911';
+}
+
+.in-cliente-color:before {
+  content: '\e96b';
+  color: rgb(7, 39, 45);
+  position: absolute;
+}
+
+.in-cliente-color:after {
+  content: '\e96c';
+  color: rgb(0, 198, 94);
+}
+
+.in-codigo-barras:before {
+  content: '\e912';
+}
+
+.in-colecao:before {
+  content: '\e913';
+}
+
+.in-copiar:before {
+  content: '\e914';
+}
+
+.in-credor:before {
+  content: '\e915';
+}
+
+.in-dashboard:before {
+  content: '\e916';
+}
+
+.in-desfazer:before {
+  content: '\e917';
+}
+
+.in-distribuicao:before {
+  content: '\e918';
+}
+
+.in-dollar:before {
+  content: '\e919';
+}
+
+.in-dots-vertical:before {
+  content: '\e91a';
+}
+
+.in-editar:before {
+  content: '\e91b';
+}
+
+.in-email:before {
+  content: '\e91c';
+}
+
+.in-enviar:before {
+  content: '\e91d';
+}
+
+.in-espelho:before {
+  content: '\e91e';
+}
+
+.in-estrela:before {
+  content: '\e91f';
+}
+
+.in-filtro:before {
+  content: '\e920';
+}
+
+.in-flag:before {
+  content: '\e921';
+}
+
+.in-fone:before {
+  content: '\e922';
+}
+
+.in-fone-entrando:before {
+  content: '\e923';
+}
+
+.in-fone-saindo:before {
+  content: '\e924';
+}
+
+.in-headset:before {
+  content: '\e925';
+}
+
+.in-historico:before {
+  content: '\e926';
+}
+
+.in-historico-2:before {
+  content: '\e927';
+}
+
+.in-indicadores:before {
+  content: '\e92e';
+}
+
+.in-indicadores-color:before {
+  content: '\e92f';
+  color: rgb(7, 39, 45);
+  position: absolute;
+}
+.in-indicadores-color:after {
+  content: '\e930';
+  color: rgb(0, 198, 94);
+}
+
+.in-info-circulo:before {
+  content: '\e931';
+}
+
+.in-intercom:before {
+  content: '\e932';
+}
+
+.in-kanbam:before {
+  content: '\e933';
+}
+
+.in-link-externo:before {
+  content: '\e934';
+}
+
+.in-lista:before {
+  content: '\e935';
+}
+
+.in-lixo:before {
+  content: '\e936';
+}
+
+.in-lote:before {
+  content: '\e937';
+}
+
+.in-mais:before {
+  content: '\e938';
+}
+
+.in-menos:before {
+  content: '\e939';
+}
+
+.in-menos-circulo:before {
+  content: '\e93a';
+}
+
+.in-mensagem:before {
+  content: '\e93b';
+}
+
+.in-microfone:before {
+  content: '\e93c';
+}
+
+.in-microfone-off:before {
+  content: '\e93d';
+}
+
+.in-olho:before {
+  content: '\e93e';
+}
+
+.in-olho-cortado:before {
+  content: '\e93f';
+}
+
+.in-parametro:before {
+  content: '\e940';
+}
+
+.in-pause:before {
+  content: '\e941';
+}
+
+.in-pin:before {
+  content: '\e942';
+}
+
+.in-play:before {
+  content: '\e943';
+}
+
+.in-power-off:before {
+  content: '\e944';
+}
+
+.in-protesto:before {
+  content: '\e945';
+}
+
+.in-questao:before {
+  content: '\e946';
+}
+
+.in-raio:before {
+  content: '\e947';
+}
+
+.in-relogio:before {
+  content: '\e948';
+}
+
+.in-seta-down:before {
+  content: '\e949';
+}
+
+.in-seta-troca:before {
+  content: '\e94a';
+}
+
+.in-seta-up:before {
+  content: '\e94b';
+}
+
+.in-sino:before {
+  content: '\e94c';
+}
+
+.in-sms:before {
+  content: '\e94d';
+}
+
+.in-tag:before {
+  content: '\e94e';
+}
+
+.in-tag-color:before {
+  content: '\e92c';
+  color: rgb(7, 39, 45);
+  position: absolute;
+}
+
+.in-tag-color:after {
+  content: '\e92d';
+  color: rgb(0, 198, 94);
+}
+
+.in-ticket:before {
+  content: '\e94f';
+}
+
+.in-titulo:before {
+  content: '\e950';
+}
+
+.in-tv:before {
+  content: '\e951';
+}
+
+.in-txt-alinhado-direita:before {
+  content: '\e952';
+}
+
+.in-upload:before {
+  content: '\e953';
+}
+
+.in-usuario:before {
+  content: '\e954';
+}
+
+.in-voicemail:before {
+  content: '\e955';
+}
+
+.in-volume-off:before {
+  content: '\e956';
+}
+
+.in-volume-on:before {
+  content: '\e957';
+}
+
+.in-wifi-off:before {
+  content: '\e958';
+}
+
+.in-x:before {
+  content: '\e959';
+}
+
+.in-x-circulo:before {
+  content: '\e95a';
+}
+
+.in-sms-color:before {
+  content: '\e92a';
+  color: rgb(7, 39, 45);
+  position: absolute;
+}
+
+.in-sms-color:after {
+  content: '\e92b';
+  color: rgb(0, 198, 94);
+}
