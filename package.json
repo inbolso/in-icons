@@ -1,0 +1,8 @@
+{
+  "name": "in-icons",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:pjasolucoes/in-icons.git",
+  "author": "Carlos Santos <carlos.santos74@outlook.com>",
+  "license": "MIT"
+}
