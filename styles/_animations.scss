@@ -1,0 +1,29 @@
+@keyframes spin {
+  from {
+    transform: rotate(0);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.in-spin {
+  animation: spin infinite linear 2s;
+}
+
+.in-rotate-90 {
+  transform: rotate(90deg);
+}
+
+.in-rotate-45 {
+  transform: rotate(45deg);
+}
+
+.in-rotate-180 {
+  transform: rotate(180deg);
+}
+
+.in-rotate-360 {
+  transform: rotate(360deg);
+}
