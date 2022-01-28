@@ -2,19 +2,19 @@ $color-01: rgb(0, 198, 94);
 $color-02: rgb(7, 39, 45);
 
 .in-sair:before {
-  content: '\e974';
+  content: '\e9d2';
 }
 
 .in-integracao:before {
-  content: '\e973';
+  content: '\e9b5';
 }
 
 .in-atualiza:before {
-  content: '\e976';
+  content: '\e97a';
 }
 
 .in-configuracoes:before {
-  content: '\e975';
+  content: '\e992';
 }
 
 .in-protesto-color {
@@ -567,4 +567,12 @@ $color-02: rgb(7, 39, 45);
 .in-sms-color:after {
   content: '\e92b';
   color: $color-01;
+}
+
+.in-presente:before {
+  content: '\e980';
+}
+
+.in-grupo-trabalho:before {
+  content: '\e974';
 }
