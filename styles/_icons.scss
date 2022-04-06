@@ -1,6 +1,33 @@
 $color-01: rgb(0, 198, 94);
 $color-02: rgb(7, 39, 45);
 
+.in-promessa:before {
+  content: "\e978";
+}
+.in-repasse:before {
+  content: "\e979";
+}
+
+.in-repasse-color:before {
+  content: "\e976";
+  color: $color-01;
+  position: absolute;
+}
+.in-repasse-color:after {
+  content: "\e977";
+  color: $color-02;
+}
+
+.in-promessa-color:before {
+  content: "\e973";
+  color: $color-02;
+  position: absolute;
+}
+.in-promessa-color:after {
+  content: "\e975";
+  color: $color-01;
+}
+
 .in-sair:before {
   content: '\e9d2';
 }
